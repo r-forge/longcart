@@ -1,0 +1,13 @@
+Package: LongCART
+Type: Package
+Title: Recursive Partitioning for Longitudinal Profiles
+Version: 1.0
+Date: 2019-09-15
+Author: Madan G Kundu
+Maintainer: MadanG Kundu <madan_g.kundu@yahoo.com>
+Depends: R (>= 3.4.0), nlme, rpart
+Imports: Formula
+Description: Recursive partitioning for longitudinal profiles based on continuous response. An implementation of the functionality of the 'LongCART' algorithm ('Kundu' and 'Harezlak', 2019).
+License: GPL (>=2)
+URL: https://www.r-project.org
+BugReports: https://github.com/madanstat/LongCART/issues
