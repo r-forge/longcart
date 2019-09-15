@@ -1,0 +1,9 @@
+importFrom(Formula, Formula, as.Formula)
+import(nlme)
+import(rpart)
+export(LongCART)
+export(StabCont)
+export(StabCat)
+importFrom("graphics", "plot", "text")
+importFrom("stats", "model.matrix", "na.omit", "p.adjust", "pchisq", "vcov")
+
